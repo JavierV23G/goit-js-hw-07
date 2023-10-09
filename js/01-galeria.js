@@ -1,6 +1,6 @@
-import { galeriaItems } from './galeria-items.js';
-// Change code below this line
+import { galeriaItems } from "./galeria-items.js";
 
+// Change code below this line
 const galeria = document.querySelector(".galeria");
 let instance;
 
